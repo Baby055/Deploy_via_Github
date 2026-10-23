@@ -1,0 +1,30 @@
+{
+  "ville": "Antananarivo",
+  "pays": "MG",
+  "lat": -18.8792,
+  "lon": 47.5079,
+  "date_extraction": "2026-10-23",
+  "heure_extraction": "01",
+  "timestamp_utc": "2026-10-23T01:14:42",
+  "source": "openweather_air_pollution",
+  "raw_response": {
+    "list": [
+      {
+        "main": {
+          "aqi": 1
+        },
+        "components": {
+          "co": 199.76,
+          "no": 0,
+          "no2": 1.53,
+          "o3": 27.46,
+          "so2": 0.18,
+          "pm2_5": 6.28,
+          "pm10": 10.54,
+          "nh3": 1.58
+        },
+        "dt": 1792717959
+      }
+    ]
+  }
+}
